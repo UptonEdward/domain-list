@@ -1,0 +1,12 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/entrust
+
+# Behavior: domain
+
+payload:
+  - "+.affirmtrust.com"
+  - "+.atos.net"
+  - "+.certificat2.com"
+  - "+.entrust.net"
+  - "+.entrustdatacard.com"
+  - "+.myatos.net"
+  - "+.trendmicro.com"

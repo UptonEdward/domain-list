@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/samsung
+
+.ad-survey.com
+.galaxyappstore.com
+.samsungcloudcn.com
+.samsungeshop.com.cn

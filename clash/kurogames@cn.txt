@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/kurogames
+
+# Behavior: domain
+
+payload:
+  - "+.aki-game.com"
+  - "+.kurogames.com"

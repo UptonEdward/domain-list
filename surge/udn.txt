@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/udn
+
+.udn.com
+.udn.com.tw
+.udndata.com
+.udnfunlife.com

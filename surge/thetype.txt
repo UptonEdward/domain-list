@@ -1,0 +1,5 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/thetype
+
+.thetype.cloud
+.thetype.com
+.typeisbeautiful.com

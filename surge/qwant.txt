@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/qwant
+
+.qwant.com
+.qwant.de
+.qwant.fr
+.qwant.it

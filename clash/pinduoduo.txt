@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/pinduoduo
+
+# Behavior: domain
+
+payload:
+  - "+.pddpic.com"
+  - "+.pinduoduo.com"
+  - "+.pinduoduo.net"
+  - "+.yangkeduo.com"

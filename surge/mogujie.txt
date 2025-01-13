@@ -1,0 +1,5 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/mogujie
+
+.mogu.com
+.mogucdn.com
+.mogujie.com

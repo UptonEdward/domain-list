@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/embedly
+
+# Behavior: domain
+
+payload:
+  - "+.embed.ly"
+  - "+.embedly.com"
+  - "+.playerjs.io"

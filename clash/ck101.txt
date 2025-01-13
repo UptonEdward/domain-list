@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/ck101
+
+# Behavior: domain
+
+payload:
+  - "+.ck101.com"
+  - "+.ckcdn.com"
+  - "+.ckck.fun"

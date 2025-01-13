@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/boboporn
+
+# Behavior: domain
+
+payload:
+  - "+.boboporn.com"
+  - "+.boboporn.net"
+  - "+.bobovip.cc"
+  - "+.sesez.com"

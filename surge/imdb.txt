@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/imdb
+
+.boxofficemojo.com
+.imdb
+.imdb.com
+.imdb.to
+.media-imdb.com

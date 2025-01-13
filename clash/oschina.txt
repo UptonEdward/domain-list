@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/oschina
+
+# Behavior: domain
+
+payload:
+  - "+.gitee.com"
+  - "+.gitee.io"
+  - "+.oschina.net"

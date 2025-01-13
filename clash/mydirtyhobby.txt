@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/mydirtyhobby
+
+# Behavior: domain
+
+payload:
+  - "+.mdhcdn.com"
+  - "+.mydirtyhobby.com"

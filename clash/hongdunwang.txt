@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/hongdunwang
+
+# Behavior: domain
+
+payload:
+  - "+.hongdunwang.com.cn"

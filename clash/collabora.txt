@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/collabora
+
+# Behavior: domain
+
+payload:
+  - "+.collabora.co.uk"
+  - "+.collabora.com"
+  - "+.collabora.org"
+  - "+.collaboraoffice.com"

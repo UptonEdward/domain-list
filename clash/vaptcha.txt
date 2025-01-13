@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/vaptcha
+
+# Behavior: domain
+
+payload:
+  - "+.vaptcha.com"
+  - "+.vaptcha.net"

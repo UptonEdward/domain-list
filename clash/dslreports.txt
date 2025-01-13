@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/dslreports
+
+# Behavior: domain
+
+payload:
+  - "+.broadbandreports.com"
+  - "+.dslr.net"
+  - "+.dslreports.com"

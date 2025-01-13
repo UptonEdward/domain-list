@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/f-droid
+
+.f-dro1d.org
+.f-droid.com
+.f-droid.org
+.fdroid.org

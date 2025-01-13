@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/cnki
+
+# Behavior: domain
+
+payload:
+  - "+.chndoi.org"
+  - "+.cnki.com.cn"
+  - "+.cnki.net"

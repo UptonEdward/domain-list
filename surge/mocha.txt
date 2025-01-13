@@ -1,0 +1,3 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/mocha
+
+.mochajs.org

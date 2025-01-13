@@ -1,0 +1,13 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/facebook-ads
+
+# Behavior: domain
+
+payload:
+  - "+.analytics.facebook.com"
+  - "+.b-graph-fallback.facebook.com"
+  - "+.b-graph.facebook.com"
+  - "+.graph-fallback.facebook.com"
+  - "+.graph.facebook.com"
+  - "+.graph.fbpigeon.com"
+  - "+.pixel.facebook.com"
+  - "+.z-m-graph.facebook.com"

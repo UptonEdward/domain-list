@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/tendcloud
+
+# Behavior: domain
+
+payload:
+  - "+.cpatrk.net"
+  - "+.talkingdata.com"
+  - "+.talkinggame.com"
+  - "+.tendcloud.com"

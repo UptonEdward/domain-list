@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/acfun
+
+# Behavior: domain
+
+payload:
+  - "apilog-web.acfun.cn"

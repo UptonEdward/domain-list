@@ -1,0 +1,4 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/zynga-ads
+
+.zynga.com
+.zyngaplayersupport.com

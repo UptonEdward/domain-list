@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/4paradigm
+
+# Behavior: domain
+
+payload:
+  - "+.4paradigm.com"

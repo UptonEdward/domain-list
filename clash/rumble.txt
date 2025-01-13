@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/rumble
+
+# Behavior: domain
+
+payload:
+  - "+.rmbl.ws"
+  - "+.rumble.com"

@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/ltn
+
+# Behavior: domain
+
+payload:
+  - "+.ltn.com.tw"
+  - "+.yes123.com.tw"

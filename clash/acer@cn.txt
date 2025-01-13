@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/acer
+
+# Behavior: domain
+
+payload:
+  - "+.acer.com.cn"

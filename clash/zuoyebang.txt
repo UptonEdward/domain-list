@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/zuoyebang
+
+# Behavior: domain
+
+payload:
+  - "+.zuoyebang.cc"
+  - "+.zuoyebang.com"
+  - "+.zybang.com"

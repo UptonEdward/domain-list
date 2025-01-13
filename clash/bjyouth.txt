@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/bjyouth
+
+# Behavior: domain
+
+payload:
+  - "+.bjyouth.gov.cn"
+  - "+.bjyouth.net"
+  - "+.sqqnh.cn"
+  - "+.sqqnh.org"

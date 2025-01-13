@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/wiwide
+
+# Behavior: domain
+
+payload:
+  - "+.wamawama.com"
+  - "+.wiwide.com"

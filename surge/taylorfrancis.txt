@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/taylorfrancis
+
+.tandf.co.uk
+.tandfonline.com
+.taylorandfrancis.com
+.taylorfrancis.com

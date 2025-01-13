@@ -1,0 +1,13 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/ehentai
+
+# Behavior: domain
+
+payload:
+  - "+.e-hentai.org"
+  - "+.ehgt.org"
+  - "+.ehtracker.org"
+  - "+.ehwiki.org"
+  - "+.exhentai.org"
+  - "+.hath.network"
+  - "+.hentaiathome.net"
+  - "+.hentaiverse.org"

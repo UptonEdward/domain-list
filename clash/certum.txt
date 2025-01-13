@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/certum
+
+# Behavior: domain
+
+payload:
+  - "+.certum.pl"
+  - "+.ocsp-certum.com"
+  - "+.ocsp-responder.com"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/agora
+
+# Behavior: domain
+
+payload:
+  - "+.agora.io"
+  - "+.agoraio.cn"
+  - "+.agoralab.co"

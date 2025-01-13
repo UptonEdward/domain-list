@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/haier
+
+# Behavior: domain
+
+payload:
+  - "+.ehaier.com"
+  - "+.haier.com"
+  - "+.haier.net"
+  - "+.haiersmarthomes.com"

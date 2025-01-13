@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/cheetahmobile
+
+.cmcm.com
+.cmcmcdn.com
+.duba.com
+.duba.net
+.ijinshan.com
+.liebao.cn

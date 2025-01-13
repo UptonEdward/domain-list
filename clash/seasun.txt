@@ -1,0 +1,11 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/seasun
+
+# Behavior: domain
+
+payload:
+  - "+.cbjq.com"
+  - "+.seasungames.com"
+  - "+.testplus.cn"
+  - "+.xishanju.com"
+  - "+.xoyo.com"
+  - "+.xoyocdn.com"
