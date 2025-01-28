@@ -1,0 +1,4 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/icloudprivaterelay
+
+.mask-h2.icloud.com
+.mask.icloud.com

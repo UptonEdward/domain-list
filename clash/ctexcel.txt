@@ -1,0 +1,10 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/ctexcel
+
+# Behavior: domain
+
+payload:
+  - "+.ctexcel.ca"
+  - "+.ctexcel.com"
+  - "+.ctexcel.com.hk"
+  - "+.ctexcel.fr"
+  - "+.ctexcel.us"

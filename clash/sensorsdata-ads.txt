@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/sensorsdata-ads
+
+# Behavior: domain
+
+payload:
+  - "+.static.sensorsdata.cn"

@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/economist
+
+# Behavior: domain
+
+payload:
+  - "+.economist.com"
+  - "+.economistgroup.com"
+  - "+.economistgroupcareers.com"
+  - "+.eiu.com"

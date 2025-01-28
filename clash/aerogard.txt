@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/aerogard
+
+# Behavior: domain
+
+payload:
+  - "+.aerogard.com.au"
+  - "+.aerogard.com.cn"
+  - "+.aerogardcn.com"

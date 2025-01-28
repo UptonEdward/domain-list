@@ -1,0 +1,5 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/bongacams
+
+.bcicdn.com
+.bcrncdn.com
+.bongacams.com

@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/pingsx
+
+# Behavior: domain
+
+payload:
+  - "+.ping.sx"
+  - "public-us-pingsx.api.clonoth.com"

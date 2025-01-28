@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/apple-dev
+
+.researchkit.cn
+.researchkit.com.cn
+.swiftui.cn
+.swiftui.com.cn

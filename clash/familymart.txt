@@ -1,0 +1,12 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/familymart
+
+# Behavior: domain
+
+payload:
+  - "+.famifun.com.tw"
+  - "+.family.co.jp"
+  - "+.family.com.tw"
+  - "+.familymart.com.cn"
+  - "+.familymart.com.my"
+  - "+.familymart.com.ph"
+  - "+.famima.vn"

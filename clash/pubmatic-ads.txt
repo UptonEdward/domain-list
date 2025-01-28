@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/pubmatic-ads
+
+# Behavior: domain
+
+payload:
+  - "+.ads.pubmatic.com"

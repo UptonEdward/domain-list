@@ -1,0 +1,5 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/dailymotion
+
+.dailymotion.com
+.dm-event.net
+.dmcdn.net

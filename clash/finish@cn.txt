@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/finish
+
+# Behavior: domain
+
+payload:
+  - "+.dishwashingexpert.com.cn"
+  - "+.finish.com.cn"

@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/category-tech-media
+
+# Behavior: domain
+
+payload:
+  - "+.thetype.cloud"

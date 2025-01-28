@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/espressif
+
+# Behavior: domain
+
+payload:
+  - "+.esp32.com"
+  - "+.esp8266.com"
+  - "+.espressif.com"

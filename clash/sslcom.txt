@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/sslcom
+
+# Behavior: domain
+
+payload:
+  - "+.ssl.com"
+  - "+.sslcom.cn"

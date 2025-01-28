@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/bootcss
+
+# Behavior: domain
+
+payload:
+  - "+.bootcdn.cn"
+  - "+.bootcss.com"
+  - "+.phpcomposer.com"

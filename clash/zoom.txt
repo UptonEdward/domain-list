@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/zoom
+
+# Behavior: domain
+
+payload:
+  - "+.zoom.com"
+  - "+.zoom.com.cn"
+  - "+.zoom.us"

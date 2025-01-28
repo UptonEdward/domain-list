@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/whatsapp
+
+# Behavior: domain
+
+payload:
+  - "+.graph.whatsapp.com"
+  - "+.graph.whatsapp.net"

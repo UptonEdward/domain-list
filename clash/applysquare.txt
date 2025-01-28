@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/applysquare
+
+# Behavior: domain
+
+payload:
+  - "+.applysquare.com"
+  - "+.applysquare.net"

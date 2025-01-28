@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/bitwarden
+
+# Behavior: domain
+
+payload:
+  - "+.bitwarden.com"
+  - "+.bitwarden.eu"
+  - "+.bitwarden.net"
+  - "+.btwrdn.com"

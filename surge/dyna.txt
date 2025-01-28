@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/dyna
+
+.dynacw.co.jp
+.dynacw.com
+.dynacw.com.cn
+.dynacw.com.hk
+.dynacw.com.tw

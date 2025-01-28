@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/kuaiyikeji
+
+# Behavior: domain
+
+payload:
+  - "+.dengguobi.com"
+  - "+.houyicaiji.com"
+  - "+.jinglingbiaozhu.com"

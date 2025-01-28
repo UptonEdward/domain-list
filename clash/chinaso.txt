@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/chinaso
+
+# Behavior: domain
+
+payload:
+  - "+.chinaso.com"
+  - "+.pg0.cn"

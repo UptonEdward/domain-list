@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/dcard
+
+.dcard.cc
+.dcard.io
+.dcard.link
+.dcard.tw

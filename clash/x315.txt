@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/x315
+
+# Behavior: domain
+
+payload:
+  - "+.x315.com"

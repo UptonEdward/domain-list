@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/justmysocks
+
+.justmysocks.net
+.justmysocks1.net
+.justmysocks2.net
+.justmysocks4.net

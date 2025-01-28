@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/swag
+
+# Behavior: domain
+
+payload:
+  - "+.5w.ag"
+  - "+.swag-live.co"
+  - "+.swag.live"

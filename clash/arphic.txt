@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/arphic
+
+# Behavior: domain
+
+payload:
+  - "+.arphic.com"
+  - "+.arphic.com.cn"
+  - "+.arphic.com.tw"
+  - "+.ifontcloud.com"

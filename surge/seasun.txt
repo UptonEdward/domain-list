@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/seasun
+
+.cbjq.com
+.seasungames.com
+.testplus.cn
+.xishanju.com
+.xoyo.com
+.xoyocdn.com

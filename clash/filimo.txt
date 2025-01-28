@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/filimo
+
+# Behavior: domain
+
+payload:
+  - "+.filimo.com"
+  - "+.filimo.school"

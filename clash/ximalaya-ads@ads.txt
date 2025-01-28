@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/ximalaya-ads
+
+# Behavior: domain
+
+payload:
+  - "+.adbehavior.ximalaya.com"
+  - "+.adse.wsa.ximalaya.com"
+  - "+.adse.ximalaya.com"

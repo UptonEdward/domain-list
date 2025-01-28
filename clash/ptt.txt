@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/ptt
+
+# Behavior: domain
+
+payload:
+  - "+.ptt.cc"
+  - "+.ptt2.cc"
+  - "+.ptt3.cc"

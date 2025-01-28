@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/kemono
+
+# Behavior: domain
+
+payload:
+  - "+.cooer.su"
+  - "+.coomer.party"
+  - "+.kemono.party"
+  - "+.kemono.su"

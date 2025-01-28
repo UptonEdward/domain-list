@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/fzdm
+
+# Behavior: domain
+
+payload:
+  - "+.fffdm.com"
+  - "+.fzdm.com"

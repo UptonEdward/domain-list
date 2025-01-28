@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/netflav
+
+# Behavior: domain
+
+payload:
+  - "+.netflav.com"
+  - "+.netflav1.com"
+  - "+.netflav5.com"

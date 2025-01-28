@@ -1,0 +1,6 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/creativecommons
+
+.ccstatic.org
+.creativecommons.engineering
+.creativecommons.org
+.licensebuttons.net

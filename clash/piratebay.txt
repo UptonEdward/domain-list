@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/piratebay
+
+# Behavior: domain
+
+payload:
+  - "+.apibay.org"
+  - "+.pirates-forum.org"
+  - "+.thepiratebay.org"
+  - "+.torrindex.net"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/python
+
+.pycon.org
+.pypa.io
+.pypi.io
+.pypi.org
+.python.org
+.pythonhosted.org

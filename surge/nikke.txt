@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/nikke
+
+.nikke-de.com
+.nikke-en.com
+.nikke-fr.com
+.nikke-jp.com
+.nikke-kr.com
+.nikke-sea.com

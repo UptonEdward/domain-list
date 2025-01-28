@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/youzan
+
+# Behavior: domain
+
+payload:
+  - "+.youzan.com"
+  - "+.youzanyun.com"
+  - "+.yzcdn.cn"

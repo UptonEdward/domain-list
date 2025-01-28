@@ -1,0 +1,7 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/docin
+
+# Behavior: domain
+
+payload:
+  - "+.docin.com"
+  - "+.douding.cn"

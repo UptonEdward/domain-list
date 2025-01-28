@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/maocloud
+
+# Behavior: domain
+
+payload:
+  - "+.maoyun.com"
+  - "+.maoyuncloud.cn"
+  - "+.maoyuncloud.com"

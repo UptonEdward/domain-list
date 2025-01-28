@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/uc
+
+# Behavior: domain
+
+payload:
+  - "+.uc.cn"
+  - "+.uc123.com"
+  - "+.ucweb.com"
+  - "+.uczzd.cn"

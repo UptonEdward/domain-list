@@ -1,0 +1,8 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/imgur
+
+# Behavior: domain
+
+payload:
+  - "+.imgur.com"
+  - "+.imgur.io"
+  - "+.imgurinc.com"

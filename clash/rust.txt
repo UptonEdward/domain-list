@@ -1,0 +1,9 @@
+# Generated from https://github.com/UptonEdward/domain-list-community/tree/master/data/rust
+
+# Behavior: domain
+
+payload:
+  - "+.crates.io"
+  - "+.docs.rs"
+  - "+.rust-lang.org"
+  - "+.rustup.rs"
